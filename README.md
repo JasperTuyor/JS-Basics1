@@ -1,1 +1,1 @@
-# Tuyor-JS-ADVANCE
+# Tuyor-JS-BASICS
